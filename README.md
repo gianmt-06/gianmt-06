@@ -1,10 +1,11 @@
 ![banner](HiBanner.svg)
 
-<h3 align="center">
-  Contact
-</h3>
-
-## ##
+<p align="center">
+  <b>Contact</b>
+</p>
+<p align="center">
+  <em>---</em>
+</p>
 <p align="center">
 <a href="your link" target="blank"><img align="center" src="gmailIcon.svg" alt="" height="35" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="inIcon.svg" alt="" height="40" width="40" /></a>
