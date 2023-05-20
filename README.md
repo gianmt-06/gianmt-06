@@ -4,4 +4,10 @@
 
 ## Contact
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gian-marco-mora-tami-66233b20a/">
+    <img src="inIcon.svg" alt="LinkedinProfile">
+  </a>
+</p>
+
 
