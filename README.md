@@ -1,5 +1,6 @@
 ![banner](HiBanner.svg)
 
+![Active Repositories](https://img.shields.io/badge/Active%20Repositories-2-brightgreen)
 
 <h2 align="center">Contact</h2>
 
