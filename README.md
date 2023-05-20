@@ -32,8 +32,6 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://github.com/gianmt-06/gianmt-06/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
