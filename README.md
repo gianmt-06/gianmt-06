@@ -3,7 +3,6 @@
 <div align="center">
     <img src="https://img.shields.io/badge/badges-awesome-green.svg" alt="Java">
     <br>
-    <br>
     <p>Hello, my name is Gian Marco. Currently, I am studying Systems and Informatics Engineering. I am passionate about all topics            related to technology, and I enjoy constantly learning new things. I have worked on personal web development projects and                intermediate-level university projects. In these projects, I have used technologies such as JavaScript, Vue.js, Java, JavaFX, and        Java Swing. Additionally, I have a keen interest in user experience (UX/UI) related aspects.</p>
 </div>
 
