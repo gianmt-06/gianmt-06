@@ -8,6 +8,5 @@
 <p align="center">
 <a href="your link" target="blank"><img align="center" src="gmailIcon.svg" alt="" height="35" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="inIcon.svg" alt="" height="40" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="discordIcon.svg" alt="" height="40" width="40" /></a>
 </p>
