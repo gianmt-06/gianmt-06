@@ -1,5 +1,5 @@
 ![banner](HiBanner.svg)
-![Profile views](https://gpvc.arturio.dev/gianmt-06)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 
 <h2 align="center">Contact</h2>
 
