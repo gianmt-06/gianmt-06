@@ -1,6 +1,7 @@
 ![banner](HiBanner.svg)
 
-![Active Repositories](https://img.shields.io/badge/Active%20Repositories-2-brightgreen)
+![Profile views](https://gpvc.arturio.dev/Naereen)
+
 
 <h2 align="center">Contact</h2>
 
