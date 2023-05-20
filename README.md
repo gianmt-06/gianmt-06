@@ -10,9 +10,9 @@
 <a href="your link" target="blank"><img align="center" src="discordIcon.svg" alt="" height="40" width="40" /></a>
 </p>
 
-<div align="center">
+<p align="center">
   ## Technology Stack
-</div>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
