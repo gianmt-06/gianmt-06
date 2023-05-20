@@ -1,12 +1,10 @@
 ![banner](HiBanner.svg)
 
-<p align="center">
-  <b>Contact</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <em>---</em>
-</p>
+### Subtítulo centrado
+___
+</div>
 
 <p align="center">
 <a href="your link" target="blank"><img align="center" src="gmailIcon.svg" alt="" height="35" width="40" /></a>
