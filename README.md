@@ -7,11 +7,11 @@
 ## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gian-marco-mora-tami-66233b20a/" style="text-decoration: none; display: inline-block; padding: 20px 10px;">
+  <a href="https://www.linkedin.com/in/gian-marco-mora-tami-66233b20a/">
     <img src="inIcon.svg" alt="LinkedinProfile" width="60">
   </a>
   
-  <a href="mailto:moragian6@gmail.com" style="text-decoration: none; display: inline-block; padding: 20px 10px;">
+  <a href="mailto:moragian6@gmail.com" style="padding: 20px 10px;">
     <img src="gmailIcon.svg" alt="Correo" width="60">
   </a>
 </p>
