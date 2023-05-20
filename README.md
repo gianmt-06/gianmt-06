@@ -31,7 +31,3 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
-
-<p align="center">
-  <img src="https://github.com/gianmt-06/gianmt-06/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
