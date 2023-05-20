@@ -1,8 +1,7 @@
 ![banner](HiBanner.svg)
 
 <div align="center">
-
-## Subtítulo centrado
+  ## Contact
 </div>
 
 <p align="center">
@@ -11,9 +10,10 @@
 <a href="your link" target="blank"><img align="center" src="discordIcon.svg" alt="" height="40" width="40" /></a>
 </p>
 
-<p align="center">
+<div align="center">
   ## Technology Stack
-</p>
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
