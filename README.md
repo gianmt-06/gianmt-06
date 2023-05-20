@@ -2,10 +2,12 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/badges-awesome-green.svg" alt="Java">
+    <p>
+        Hello
+    </p>
 </div>
 
 <h2 align="center">Contact</h2>
-
 <div align="center">
 <a href="your link" target="blank"><img align="center" src="gmailIcon.svg" alt="" height="35" width="40"/></a>
 &nbsp;&nbsp;&nbsp;
@@ -15,8 +17,7 @@
 </div>
 
 <h2 align="center">Technology Stack</h2>
-
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -27,4 +28,4 @@
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
+</div>
