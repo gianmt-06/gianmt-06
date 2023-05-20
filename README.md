@@ -4,7 +4,7 @@
 ## Contact
 
 <div align="center">
-<a href="your link" target="blank"><img align="center" src="gmailIcon.svg" alt="" height="35" width="40" style="padding-right: 30px;"/></a>
+<a href="your link" target="blank"><img align="center" src="gmailIcon.svg" alt="" height="35" width="40" style="margin-right: 30px;"/></a>
 <a href="your link" target="blank"><img align="center" src="inIcon.svg" alt="" height="40" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="discordIcon.svg" alt="" height="40" width="40" /></a>
 </div>
