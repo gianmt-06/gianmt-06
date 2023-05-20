@@ -6,12 +6,12 @@
 </div>
 
 <h2 align="center">Contact</h2>
+<a href="https://www.linkedin.com/in/gian-marco-mora-tami-66233b20a/" target="blank"><img align="center" src="inIcon.svg" alt="" height="40" width="40" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/Gian%20Marco#1137" target="blank"><img align="center" src="discordIcon.svg" alt="" height="40" width="40" /></a>
+&nbsp;&nbsp;&nbsp;
 <div align="center">
-<a href="your link" target="blank"><img align="center" src="gmailIcon.svg" alt="" height="35" width="40"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="your link" target="blank"><img align="center" src="inIcon.svg" alt="" height="40" width="40" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="your link" target="blank"><img align="center" src="discordIcon.svg" alt="" height="40" width="40" /></a>
+<a href="mailto:moragian6@gmail.com" target="blank"><img align="center" src="gmailIcon.svg" alt="" height="35" width="40"/></a>
 </div>
 
 <h2 align="center">Technology Stack</h2>
