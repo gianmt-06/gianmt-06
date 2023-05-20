@@ -11,8 +11,3 @@
     <img src="inIcon.svg" alt="LinkedinProfile" width="60">
   </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianmt-06)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
