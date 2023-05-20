@@ -30,4 +30,4 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gianmt-06&theme=vue-dark)](https://git.io/streak-stats)
