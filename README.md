@@ -1,7 +1,7 @@
 ![banner](HiBanner.svg)
 
 <h3 align="center">
-  ## Contact
+  Contact
 </h3>
 
 <p align="center">
