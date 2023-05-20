@@ -1,7 +1,7 @@
 ![banner](HiBanner.svg)
 
 
-## Contact
+<h2 align="center">Contact</h2>
 
 <div align="center">
 <a href="your link" target="blank"><img align="center" src="gmailIcon.svg" alt="" height="35" width="40"/></a>
