@@ -32,5 +32,5 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianmt-06&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gianmt-06&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
