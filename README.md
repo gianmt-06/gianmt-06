@@ -9,8 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gian-marco-mora-tami-66233b20a/" style="text-decoration: none;">
     <img src="inIcon.svg" alt="LinkedinProfile" width="60">
-    <br>
-    LinkedIn Profile
   </a>
 </p>
 
