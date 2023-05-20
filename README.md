@@ -1,5 +1,5 @@
 ![banner](HiBanner.svg)
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
+[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/gianmt-06/badges)
 
 <h2 align="center">Contact</h2>
 
