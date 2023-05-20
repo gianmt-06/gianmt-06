@@ -11,7 +11,7 @@
     <img src="inIcon.svg" alt="LinkedinProfile" width="60">
   </a>
   
-  <a href="mailto:moragian6@gmail.com" style="padding: 50px 50px;">
+  <a href="mailto:moragian6@gmail.com">
     <img src="gmailIcon.svg" alt="Correo" width="60">
   </a>
 </p>
