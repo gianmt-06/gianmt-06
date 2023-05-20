@@ -4,13 +4,18 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gian-marco-mora-tami-66233b20a)
 -->
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  ## Contact
+</p>
 <p align="center">
 <a href="your link" target="blank"><img align="center" src="gmailIcon.svg" alt="" height="35" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="inIcon.svg" alt="" height="40" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="discordIcon.svg" alt="" height="40" width="40" /></a>
 </p>
 
+<p align="center">
+  ## Technology Stack
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
