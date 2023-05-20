@@ -9,11 +9,11 @@
 
 <h2 align="center">Contact</h2>
 <div align="center">
-    <a href="https://www.linkedin.com/in/gian-marco-mora-tami-66233b20a/" target="blank" title="Gian Marco Mora Tami"><img                   align="center" src="inIcon.svg" alt="" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/gian-marco-mora-tami-66233b20a/" target="_blank" title="Gian Marco Mora Tami"><img                   align="center" src="inIcon.svg" alt="" height="40" width="40" /></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://discord.com/users/Gian%20Marco#1137" target="blank" title="Gian Marco#1137"><img align="center"                         src="discordIcon.svg" alt="" height="40" width="40" /></a>
+    <a href="https://discord.com/users/Gian%20Marco#1137" target="_blank" title="Gian Marco#1137"><img align="center"                         src="discordIcon.svg" alt="" height="40" width="40" /></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="mailto:moragian6@gmail.com" target="blank" title="moragian6@gmail.com"><img align="center" src="gmailIcon.svg" alt=""           height="35" width="40"/></a>
+    <a href="mailto:moragian6@gmail.com" target="_blank" title="moragian6@gmail.com"><img align="center" src="gmailIcon.svg" alt=""           height="35" width="40"/></a>
     <br>
     <br>
 </div>
