@@ -2,8 +2,7 @@
 
 <div align="center">
 
-### Subtítulo centrado
-___
+## Subtítulo centrado
 </div>
 
 <p align="center">
