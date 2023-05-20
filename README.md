@@ -1,5 +1,8 @@
 ![banner](HiBanner.svg)
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/gianmt-06/badges)
+
+<div align="center">
+    <img src="https://img.shields.io/badge/badges-awesome-green.svg" alt="Java">
+</div>
 
 <h2 align="center">Contact</h2>
 
