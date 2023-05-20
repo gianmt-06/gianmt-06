@@ -3,12 +3,11 @@
 
 ## Contact
 
-
-<p align="center">
+<div align="center">
 <a href="your link" target="blank"><img align="center" src="gmailIcon.svg" alt="" height="35" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="inIcon.svg" alt="" height="40" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="discordIcon.svg" alt="" height="40" width="40" /></a>
-</p>
+</div>
 
 ## Technology Stack
 
