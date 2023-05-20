@@ -2,10 +2,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/badges-awesome-green.svg" alt="Java">
-    <br>
-    <p>
-        Hello
-    </p>
+    <p></p>
 </div>
 
 <h2 align="center">Contact</h2>
