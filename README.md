@@ -4,7 +4,8 @@
     <img src="https://img.shields.io/badge/badges-awesome-green.svg" alt="Java">
     <br>
     <br>
-    <p>Hello, my name is Gian Marco. Currently, I am studying Systems and Informatics Engineering. I am passionate about all topics            related to technology, and I enjoy constantly learning new things. I have worked on personal web development projects and                intermediate-level university projects. In these projects, I have used technologies such as JavaScript, Vue.js, Java, JavaFX, and        Java Swing. Additionally, I have a keen interest in user experience (UX/UI) related aspects.</p>
+    <p>Hello, my name is Gian Marco. I am currently studying systems engineering and computer science, my career has led me to develop several projects in which I have applied my knowledge to solve the problems posed. I have worked with frontend technologies like Vue.js, JavaFX and Java Swing and with backend technologies like Java, Node.js and Express, I also handle programming languages like JavaScript and Typescript, databases like MySQL or MongoDB and I have knowledge in the development of user experience (UX/UI) with Figma and AdobeXD.
+</p>
 </div>
 
 <h2 align="center">Contact</h2>
