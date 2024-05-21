@@ -1,13 +1,3 @@
-
-
-<div align="center">
-    <img src="https://img.shields.io/badge/badges-awesome-green.svg" alt="Java">
-    <br>
-    <br>
-    <p>Hello, my name is Gian Marco. I am currently studying systems engineering and computer science, my career has led me to develop several projects in which I have applied my knowledge to solve the problems posed. I have worked with frontend technologies like Vue.js, JavaFX and Java Swing and with backend technologies like Java, Node.js and Express, I also handle programming languages like JavaScript and Typescript, databases like MySQL or MongoDB and I have knowledge in the development of user experience (UX/UI) with Figma and AdobeXD.
-</p>
-</div>
-
 <h2 align="center">Contact</h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/gian-marco-mora-tami-66233b20a/" target="_blank" title="Gian Marco Mora Tami"><img                   align="center" src="inIcon.svg" alt="" height="40" width="40" /></a>
