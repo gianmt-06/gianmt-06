@@ -34,6 +34,7 @@
 </div>
 
 <div align="center">
+    <h2 align="center">My Github Stats</h2>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianmt-06&layout=compact&theme=gotham" alt="Top    Lenguajes">
     </a>
