@@ -1,6 +1,15 @@
 ![Banner](HiBanner.svg)
 <br>
 
+<h2 align="center">About Me</h2>
+<div align="center">
+    <p>
+        I am a final semester student of computer engineering. I have knowledge in development technologies for web, mobile and desktop platforms. I perform very well both as a frontend and backend developer and I am able to configure infrastructure both in the cloud and physical servers. 
+        My strengths are teamwork and solving difficulties thanks to my technical knowledge. I like to learn new things every day, explore new technologies and share my knowledge with others.
+    </p>
+</div>
+
+
 <h2 align="center">Technology Stack</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
