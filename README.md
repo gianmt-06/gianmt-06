@@ -11,7 +11,13 @@
 
 <h2 align="center">Technology Stack</h2>
 <div align="left">
-    <div style="display: flex; gap: 2rem; flex-wrap: wrap; align-items: flex-start;">
+    <table>
+         <tr>
+          <td>left</td>
+          <td>right</td>
+        </tr>
+    </table>
+    <div>
         <div>
             <h3> Languajes </h3>
             <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
