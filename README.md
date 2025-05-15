@@ -3,14 +3,14 @@
 
 <h2 align="center">About Me</h2>
 <div align="center">
-    <img src="me.png" alt="Avatar" width="100"/>
+    <img src="me.png" alt="Avatar" width="130"/>
+    <br>
     <br>
     <p>
         I am a final semester student of computer engineering. I have knowledge in development technologies for web, mobile and desktop platforms. I perform very well both as a frontend and backend developer and I am able to configure infrastructure both in the cloud and physical servers. 
         My strengths are teamwork and solving difficulties thanks to my technical knowledge. I like to learn new things every day, explore new technologies and share my knowledge with others.
     </p>
 </div>
-<br>
 <br>
 
 <h2 align="center">Technology Stack</h2>
@@ -34,7 +34,6 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
 <br> 
-<br> 
 
 <div align="center">
     <h2 align="center">My Github Stats</h2>
@@ -42,7 +41,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianmt-06&layout=compact&theme=gotham" alt="Top    Lenguajes">
     </a>
 </div>
-<br>
 <br>
 
 <h2 align="center">Contact</h2>
