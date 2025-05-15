@@ -3,7 +3,8 @@
 
 <h2 align="center">About Me</h2>
 <div align="center">
-  <img src="me.png" alt="Avatar" width="200"/>
+    <img src="me.png" alt="Avatar" width="100"/>
+    <br>
     <p>
         I am a final semester student of computer engineering. I have knowledge in development technologies for web, mobile and desktop platforms. I perform very well both as a frontend and backend developer and I am able to configure infrastructure both in the cloud and physical servers. 
         My strengths are teamwork and solving difficulties thanks to my technical knowledge. I like to learn new things every day, explore new technologies and share my knowledge with others.
@@ -31,9 +32,9 @@
     <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <br> 
-    <br> 
 </div>
+<br> 
+<br> 
 
 <div align="center">
     <h2 align="center">My Github Stats</h2>
