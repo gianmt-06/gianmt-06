@@ -3,6 +3,7 @@
 
 <h2 align="center">About Me</h2>
 <div align="center">
+  <img src="me.png" alt="Avatar" width="200"/>
     <p>
         I am a final semester student of computer engineering. I have knowledge in development technologies for web, mobile and desktop platforms. I perform very well both as a frontend and backend developer and I am able to configure infrastructure both in the cloud and physical servers. 
         My strengths are teamwork and solving difficulties thanks to my technical knowledge. I like to learn new things every day, explore new technologies and share my knowledge with others.
@@ -40,6 +41,8 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianmt-06&layout=compact&theme=gotham" alt="Top    Lenguajes">
     </a>
 </div>
+<br>
+<br>
 
 <h2 align="center">Contact</h2>
 <div align="center">
@@ -48,6 +51,4 @@
     <a href="https://discord.com/users/Gian%20Marco#1137" target="_blank" title="Gian Marco#1137"><img align="center"                         src="discordIcon.svg" alt="" height="40" width="40" /></a>
     &nbsp;&nbsp;&nbsp;
     <a href="mailto:moragian6@gmail.com" target="_blank" title="moragian6@gmail.com"><img align="center" src="gmailIcon.svg" alt=""           height="35" width="40"/></a>
-    <br>
-    <br>
 </div>
