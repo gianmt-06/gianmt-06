@@ -11,7 +11,7 @@
 
 <h2 align="center">Technology Stack</h2>
 <div align="left">
-    <table>
+    <table style="border-collapse: collapse; width: 100%;">
          <tr>
           <td>left</td>
           <td>right</td>
