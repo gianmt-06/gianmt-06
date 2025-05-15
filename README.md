@@ -8,7 +8,8 @@
         My strengths are teamwork and solving difficulties thanks to my technical knowledge. I like to learn new things every day, explore new technologies and share my knowledge with others.
     </p>
 </div>
-
+<br>
+<br>
 
 <h2 align="center">Technology Stack</h2>
 <div align="center">
